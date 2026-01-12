@@ -1,0 +1,4 @@
+- `ArraysTest.sol` – dynamic array operations and mapping from number to boolean.
+- `MappingTest.sol` – mapping from address to string name.
+- `UserRegistry.sol` – user registration using structs, arrays and mappings.
+- `ZombieFactory.sol` – simple factory pattern with structs, events, random‑like DNA and ownership mappings, inspired by CryptoZombies. [conversation_history:1]
